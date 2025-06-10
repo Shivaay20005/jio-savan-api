@@ -30,6 +30,18 @@ See detailed changes in the project over time:
 > **Requirements:**  
 > ✅ `Bun` ≥ v1.0.29 **or**  
 > ✅ `Node.js` ≥ v20.0.0
+## ☁️ Deploying Your Own Instance
+
+JioSaavn API can be deployed to either **Cloudflare Workers** or **Vercel** with one click.  
+Choose your preferred platform and spin up your own instance effortlessly.
+
+### 🌀 Cloudflare Workers
+
+[![Deploy with Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Shivaay20005/jio-savan-api)
+
+### ▲ Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Shivaay20005/jio-savan-api)
 
 ### 🔧 Steps:
 
